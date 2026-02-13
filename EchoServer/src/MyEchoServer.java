@@ -5,6 +5,8 @@
 //     where:  ListenerPort      is the listener port of the EchoServer
 //             -q                disable log messages of connections and timeouts 
 //
+// Change-Log
+// 2026-02-13 - V.1.0.0 - Change-Log eingefügt
 
 import java.net.*;
 import java.io.*;

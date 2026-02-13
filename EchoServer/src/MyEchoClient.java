@@ -5,6 +5,8 @@
 //      where:  ServerIP         is the IP address of the EchoServer
 //              ListenerPort     is the listener port of the EchoServer
 //
+// Change-Log
+// 2026-02-13 - V.1.0.0 - Change-Log eingefügt
 
 import java.io.*;
 import java.net.*;
